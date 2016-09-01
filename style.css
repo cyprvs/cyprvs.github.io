@@ -1,0 +1,18 @@
+﻿body {
+
+  background-color: lightgray;
+}
+
+#section {
+    width:300px;
+    float:left;
+    padding:50px; 
+}
+
+
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+ 
