@@ -9,10 +9,7 @@
     padding:50px; 
 }
 
-
-  .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
- 
+navbar-inverse {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}
