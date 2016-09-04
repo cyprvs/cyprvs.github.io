@@ -1,6 +1,6 @@
 ﻿body {
 
-  background-color: lightgray;
+  background-color: white;
 }
 
 #section {
@@ -9,7 +9,20 @@
     padding:50px; 
 }
 
-navbar-inverse {
-    background-color: #F8F8F8;
-    border-color: #E7E7E7;
+/*
+.navbar-default {
+  background-color: #e6f2ff;
+ 
+  
+}
+*/ 
+/*
+ .navbar-default {
+  color: #e6f2ff;
+}
+*/
+
+.navbar-default {
+  background-color: #99ffcc;
+  border-color: #99ffcc;
 }
