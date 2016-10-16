@@ -13,6 +13,8 @@ footer .row {
   align-items: center;
 }
 
+
+
 header h1 {
   font-weight: 700;
   margin: 0;
@@ -21,6 +23,7 @@ header h1 {
 header nav {
   display: flex;
   justify-content: flex-end;
+  margin-top: 0px;
 }
 
 header p {
@@ -31,11 +34,12 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('http://i.imgur.com/zdSH4e9.jpg');
+  background-image: url('http://i.imgur.com/9QEJb9h.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
+  
 }
 
 .jumbotron h2 {
