@@ -19,6 +19,8 @@ footer .row {
 }
 
 .navbar-image{
+	
+	display: flex;
 	margin-right: 10px;
 	margin-left: -5px;
 	margin-top: 10px;
